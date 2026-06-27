@@ -1,4 +1,3 @@
-streamlit 
-pandas 
-numpy 
-plotly 
+streamlit
+pandas
+scikit-learn
